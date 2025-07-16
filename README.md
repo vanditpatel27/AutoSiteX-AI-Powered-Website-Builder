@@ -1,5 +1,6 @@
 # AutoSiteX-AI-Powered-Website-Builder
 
+AutoSiteX is an AI-driven website builder that simplifies the process of creating beautiful, responsive websites. Designed to assist users with little or no coding experience, AutoSiteX generates ready-to-use HTML/CSS/JS templates based on user inputs.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
